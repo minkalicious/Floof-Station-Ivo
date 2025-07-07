@@ -6730,3 +6730,12 @@ Entries:
   id: 707
   time: '2025-07-05T14:05:11.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1178
+- author: TheDen
+  changes:
+    - type: Fix
+      message: The research console now handles tier 3 multiplier as expected.
+    - type: Fix
+      message: Fixed a critical bug involving the research console.
+  id: 708
+  time: '2025-07-07T05:32:28.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1183
