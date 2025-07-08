@@ -6766,3 +6766,12 @@ Entries:
   id: 711
   time: '2025-07-08T03:02:05.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1192
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: >-
+        Repeated mood effects (such as that from hunger or nicotine addiction)
+        should no longer cause your mood to flicker.
+  id: 712
+  time: '2025-07-08T17:39:05.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1181
