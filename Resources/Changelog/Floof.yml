@@ -6775,3 +6775,12 @@ Entries:
   id: 712
   time: '2025-07-08T17:39:05.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1181
+- author: M3739
+  changes:
+    - type: Fix
+      message: >-
+        Mindshield implants no longer state that they "ensure loyalty" in it's
+        description.
+  id: 713
+  time: '2025-07-08T17:39:41.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1180
