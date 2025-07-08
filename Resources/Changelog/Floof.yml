@@ -6759,3 +6759,10 @@ Entries:
   id: 710
   time: '2025-07-08T03:01:15.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1193
+- author: VividPups
+  changes:
+    - type: Tweak
+      message: all hats can be Heirlooms now
+  id: 711
+  time: '2025-07-08T03:02:05.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1192
