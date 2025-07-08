@@ -6739,3 +6739,16 @@ Entries:
   id: 708
   time: '2025-07-07T05:32:28.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1183
+- author: WhiteLightningTwister
+  changes:
+    - type: Add
+      message: Syndicate Station
+    - type: Add
+      message: Gorlex Station
+    - type: Add
+      message: Syndicate shuttles
+    - type: Add
+      message: Gorlex Raider shuttle
+  id: 709
+  time: '2025-07-08T03:00:48.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1138
