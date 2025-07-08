@@ -6752,3 +6752,10 @@ Entries:
   id: 709
   time: '2025-07-08T03:00:48.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1138
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: Fixed another round-crashing bug related to loadouts.
+  id: 710
+  time: '2025-07-08T03:01:15.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1193
