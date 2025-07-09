@@ -6784,3 +6784,10 @@ Entries:
   id: 713
   time: '2025-07-08T17:39:41.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1180
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: Custom examine texts should now correctly be removed when they expire.
+  id: 714
+  time: '2025-07-09T01:15:39.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1176
