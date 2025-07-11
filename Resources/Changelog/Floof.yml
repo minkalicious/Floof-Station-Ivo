@@ -6819,3 +6819,20 @@ Entries:
   id: 718
   time: '2025-07-11T14:34:05.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1200
+- author: M3739
+  changes:
+    - type: Fix
+      message: >-
+        The speed snail, and vulpkanin atmos suits should now display the proper
+        sprites.
+    - type: Tweak
+      message: The investigation cyborg module now has it's own unique PDA.
+    - type: Tweak
+      message: >-
+        Felinids no longer have innate Trap Avoider, and Thieving traits as part
+        of their base kit.
+    - type: Fix
+      message: Slime people can now have their core reattached into their chest.
+  id: 719
+  time: '2025-07-11T15:08:09.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1194
