@@ -6798,3 +6798,10 @@ Entries:
   id: 715
   time: '2025-07-11T14:09:32.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1198
+- author: ashkitten
+  changes:
+    - type: Tweak
+      message: Thieving trait now only shows the silhouette of pocketed items
+  id: 716
+  time: '2025-07-11T14:22:42.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1197
