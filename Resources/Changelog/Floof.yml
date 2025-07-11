@@ -6843,3 +6843,10 @@ Entries:
   id: 720
   time: '2025-07-11T15:44:56.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1190
+- author: Raikyr0
+  changes:
+    - type: Add
+      message: Added Dog Accent
+  id: 721
+  time: '2025-07-11T16:02:38.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1205
