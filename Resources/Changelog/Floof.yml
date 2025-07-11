@@ -6791,3 +6791,10 @@ Entries:
   id: 714
   time: '2025-07-09T01:15:39.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1176
+- author: ashkitten
+  changes:
+    - type: Tweak
+      message: Hiding under tables now obscures you from HUD overlays
+  id: 715
+  time: '2025-07-11T14:09:32.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1198
