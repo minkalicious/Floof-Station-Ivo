@@ -6805,3 +6805,10 @@ Entries:
   id: 716
   time: '2025-07-11T14:22:42.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1197
+- author: ashkitten
+  changes:
+    - type: Fix
+      message: Fixed basic examine health info using the wrong entity
+  id: 717
+  time: '2025-07-11T14:23:19.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1196
