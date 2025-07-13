@@ -6857,3 +6857,12 @@ Entries:
   id: 722
   time: '2025-07-13T18:23:57.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1210
+- author: archangelmarcy
+  changes:
+    - type: Tweak
+      message: >-
+        Characters using the 'Vampirism' trait can now eat blood tomatoes in
+        order to satiate their bloodthirst.
+  id: 723
+  time: '2025-07-13T18:26:50.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1202
