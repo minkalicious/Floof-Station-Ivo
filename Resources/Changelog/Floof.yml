@@ -6850,3 +6850,10 @@ Entries:
   id: 721
   time: '2025-07-11T16:02:38.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1205
+- author: Raikyr0
+  changes:
+    - type: Fix
+      message: Fixed BORK!
+  id: 722
+  time: '2025-07-13T18:23:57.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1210
