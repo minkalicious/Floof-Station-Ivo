@@ -6866,3 +6866,12 @@ Entries:
   id: 723
   time: '2025-07-13T18:26:50.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1202
+- author: ashkitten
+  changes:
+    - type: Add
+      message: >-
+        Added favorite drink preference to character profile, which improves
+        mood when consumed.
+  id: 724
+  time: '2025-07-13T18:32:41.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1195
