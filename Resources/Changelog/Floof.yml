@@ -6875,3 +6875,18 @@ Entries:
   id: 724
   time: '2025-07-13T18:32:41.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1195
+- author: ashkitten
+  changes:
+    - type: Tweak
+      message: >-
+        Typing indicator no longer shows up when typing in channels whose
+        participation is meant to be secret (Admin, Console, OOC, Telepathic)
+    - type: Tweak
+      message: Allow using sign language while speech-blocked
+    - type: Fix
+      message: >-
+        Whispering in sign language now properly checks that your hands are
+        available
+  id: 725
+  time: '2025-07-14T22:21:30.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1184
