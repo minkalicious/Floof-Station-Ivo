@@ -53,7 +53,7 @@ namespace Content.Server.Chat.Systems;
 
 // Dear contributor. When I was introducing changes to this system only god and I knew what I was doing.
 // Now only god knows. Please don't touch this code ever again. If you do have to, increment this counter as a warning for others:
-// TOTAL_HOURS_WASTED_HERE_EE = 19
+// TOTAL_HOURS_WASTED_HERE_EE = 20
 
 // TODO refactor whatever active warzone this class and chatmanager have become
 /// <summary>
@@ -491,7 +491,7 @@ public sealed partial class ChatSystem : SharedChatSystem
             return;
 
         // The original message
-        var message = TransformSpeech(source, FormattedMessage.RemoveMarkup(originalMessage), language);
+        var message = TransformSpeech(source, originalMessage, language); // Floofstation - DO NOT remove markup, there's an EscapeText call upstream.
 
         if (message.Length == 0)
             return;
@@ -575,7 +575,7 @@ public sealed partial class ChatSystem : SharedChatSystem
         if (!_actionBlocker.CanSpeak(source) && !ignoreActionBlocker)
             return;
 
-        var message = TransformSpeech(source, FormattedMessage.RemoveMarkup(originalMessage), language);
+        var message = TransformSpeech(source, originalMessage, language); // Floofstation - DO NOT remove markup, there's an EscapeText call upstream.
         if (message.Length == 0)
             return;
 
@@ -685,7 +685,7 @@ public sealed partial class ChatSystem : SharedChatSystem
         var wrappedMessage = Loc.GetString("chat-manager-entity-me-wrap-message",
             ("entityName", name),
             ("entity", ent),
-            ("message", FormattedMessage.RemoveMarkup(action)));
+            ("message", action)); // Floofstation - DO NOT remove markup, there's an EscapeText call upstream.
 
         if (checkEmote)
             TryEmoteChatInput(source, action);
@@ -731,7 +731,7 @@ public sealed partial class ChatSystem : SharedChatSystem
             ("entityName", name),
             ("entity", ent),
             ("color", color ?? DefaultSpeakColor.ToHex()),
-            ("message", FormattedMessage.RemoveMarkupPermissive(action)));
+            ("message", action)); // Floofstation - DO NOT remove markup, there's an EscapeText call upstream.
 
         foreach (var (session, data) in GetRecipients(source, WhisperClearRange))
         {
@@ -992,7 +992,7 @@ public sealed partial class ChatSystem : SharedChatSystem
 
         _sanitizer.TrySanitizeOutSmilies(newMessage, source, out newMessage, out emoteStr);
 
-        return newMessage;
+        return FormattedMessage.EscapeText(newMessage); // Floofstation - where did this sanitization go?
     }
 
     private string SanitizeInGameOOCMessage(string message)
