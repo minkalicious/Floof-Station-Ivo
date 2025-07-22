@@ -6890,3 +6890,12 @@ Entries:
   id: 725
   time: '2025-07-14T22:21:30.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1184
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: >-
+        Uncategorized mood effects (such as the "i can't breathe" one) should
+        now properly get removed after their time runs out.
+  id: 726
+  time: '2025-07-22T03:33:26.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1216
