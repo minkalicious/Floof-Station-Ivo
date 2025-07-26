@@ -6936,3 +6936,17 @@ Entries:
   id: 731
   time: '2025-07-26T23:10:04.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1211
+- author: Mnemotechnician
+  changes:
+    - type: Add
+      message: >-
+        Certain species can now choose to speak the languages of their
+        less-intelligent but similar animals (e.g. felinids can choose to speak
+        the cat language)
+    - type: Tweak
+      message: >-
+        Traits of the "natural language speaker" kind no longer take up trait
+        slots.
+  id: 732
+  time: '2025-07-26T23:19:59.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1206
