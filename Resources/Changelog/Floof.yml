@@ -6906,3 +6906,10 @@ Entries:
   id: 727
   time: '2025-07-26T15:30:17.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1246
+- author: RosySaturniidae
+  changes:
+    - type: Tweak
+      message: shadekin plushies mar now
+  id: 728
+  time: '2025-07-26T21:57:25.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1242
