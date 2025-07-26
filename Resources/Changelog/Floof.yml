@@ -6927,3 +6927,12 @@ Entries:
   id: 730
   time: '2025-07-26T22:08:45.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1243
+- author: ashkitten
+  changes:
+    - type: Fix
+      message: >-
+        Fixed another instance of The Rotation Bug that occurred when being
+        stunned or falling asleep while lying down
+  id: 731
+  time: '2025-07-26T23:10:04.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1211
