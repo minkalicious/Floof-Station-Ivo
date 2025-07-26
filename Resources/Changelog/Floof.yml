@@ -6913,3 +6913,10 @@ Entries:
   id: 728
   time: '2025-07-26T21:57:25.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1242
+- author: Karlm4x
+  changes:
+    - type: Add
+      message: Added Welding Gas Mask to CE's loadout options
+  id: 729
+  time: '2025-07-26T22:01:43.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1239
