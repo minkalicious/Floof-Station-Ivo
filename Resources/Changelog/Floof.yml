@@ -6950,3 +6950,10 @@ Entries:
   id: 732
   time: '2025-07-26T23:19:59.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1206
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: Some traits no longer use slots, namely languages and accents.
+  id: 733
+  time: '2025-07-27T17:43:51.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1249
