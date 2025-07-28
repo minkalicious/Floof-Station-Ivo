@@ -6964,3 +6964,10 @@ Entries:
   id: 734
   time: '2025-07-28T20:42:00.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1244
+- author: Raikyr0
+  changes:
+    - type: Add
+      message: Added +1 Body Bag to Medicine Lockers
+  id: 735
+  time: '2025-07-28T20:45:10.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1250
