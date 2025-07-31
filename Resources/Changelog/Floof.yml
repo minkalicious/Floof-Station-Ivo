@@ -6978,3 +6978,10 @@ Entries:
   id: 736
   time: '2025-07-28T20:58:34.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1083
+- author: Raikyr0
+  changes:
+    - type: Add
+      message: Added Freezer Recipes, Fireplace Recipe
+  id: 737
+  time: '2025-07-31T13:39:58.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1109
