@@ -7162,3 +7162,10 @@ Entries:
   id: 752
   time: '2025-08-01T23:00:04.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1263
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: Animals such as foxes should once again be able to wear internals.
+  id: 753
+  time: '2025-08-01T23:03:54.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1228
