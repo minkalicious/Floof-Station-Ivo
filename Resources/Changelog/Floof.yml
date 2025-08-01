@@ -7049,3 +7049,14 @@ Entries:
   id: 743
   time: '2025-08-01T03:31:11.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1247
+- author: KyuPolaris
+  changes:
+    - type: Add
+      message: Added the Progression cloak from Funky
+    - type: Add
+      message: Added Pride scarves
+    - type: Add
+      message: Added Pride Socks and Arm-Warmers
+  id: 744
+  time: '2025-08-01T04:42:12.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1254
