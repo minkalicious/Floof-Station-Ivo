@@ -7021,3 +7021,10 @@ Entries:
   id: 740
   time: '2025-08-01T02:06:19.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1253
+- author: Raikyr0
+  changes:
+    - type: Add
+      message: Added Tiny Fan to Logistics order-ables
+  id: 741
+  time: '2025-08-01T02:33:42.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1260
