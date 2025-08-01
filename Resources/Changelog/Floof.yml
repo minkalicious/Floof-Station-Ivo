@@ -7014,3 +7014,10 @@ Entries:
   id: 739
   time: '2025-08-01T01:59:07.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1262
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: Several syndicate items now cost less TC.
+  id: 740
+  time: '2025-08-01T02:06:19.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1253
