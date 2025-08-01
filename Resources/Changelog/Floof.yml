@@ -7042,3 +7042,10 @@ Entries:
   id: 742
   time: '2025-08-01T03:01:46.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1224
+- author: Raikyr0
+  changes:
+    - type: Add
+      message: Added Shork
+  id: 743
+  time: '2025-08-01T03:31:11.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1247
