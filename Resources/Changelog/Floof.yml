@@ -7074,3 +7074,44 @@ Entries:
   id: 746
   time: '2025-08-01T13:42:10.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1233
+- author: WhiteLightningTwister
+  changes:
+    - type: Add
+      message: Security Barracks
+    - type: Add
+      message: AI Sat
+    - type: Add
+      message: Robotics Console
+    - type: Add
+      message: Holopads
+    - type: Add
+      message: Service Breakroom
+    - type: Add
+      message: Finally added EVAC pods, three new ones.
+    - type: Tweak
+      message: Moved & reworked Cargo
+    - type: Tweak
+      message: Reworked command
+    - type: Tweak
+      message: Moved & reworked HOP
+    - type: Tweak
+      message: Reworked Security
+    - type: Tweak
+      message: Reworked detective & armory
+    - type: Tweak
+      message: Moved Telecoms
+    - type: Tweak
+      message: Reworked Engineering PA & Containment area
+    - type: Tweak
+      message: Made the pipes to the TEG to outside more visible & accessible.
+    - type: Tweak
+      message: Converted former rooms into maints areas
+    - type: Fix
+      message: Fixed atmos in botany
+    - type: Tweak
+      message: >-
+        Saltern has received a rework, featuring a brand new AI sattelite,
+        holopads, breakrooms, as well as changes to other departments.
+  id: 747
+  time: '2025-08-01T13:46:31.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1222
