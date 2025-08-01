@@ -7122,3 +7122,18 @@ Entries:
   id: 748
   time: '2025-08-01T21:25:22.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1257
+- author: RosySaturniidae
+  changes:
+    - type: Tweak
+      message: slimes have gotten a slight visual refresh!
+    - type: Add
+      message: some new eye markings, exclusive to slimes!
+    - type: Add
+      message: two new slime sounds. squish, bubble, pop!
+    - type: Fix
+      message: feral and geras slimes can now make slime noises.
+    - type: Remove
+      message: slime noses and mouths!! they can be replaced as head markings.
+  id: 749
+  time: '2025-08-01T21:28:05.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1204
