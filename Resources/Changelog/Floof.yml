@@ -7067,3 +7067,10 @@ Entries:
   id: 745
   time: '2025-08-01T12:37:21.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1264
+- author: Sprkl
+  changes:
+    - type: Add
+      message: The Tajara have arrived!
+  id: 746
+  time: '2025-08-01T13:42:10.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1233
