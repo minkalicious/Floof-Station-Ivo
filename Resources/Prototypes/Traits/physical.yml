@@ -872,6 +872,7 @@
       species:
         - Shadowkin
         - Felinid
+        - Rodentia
         - Tajaran
     - !type:CharacterTraitRequirement
       traits:
