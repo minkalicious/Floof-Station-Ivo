@@ -7153,3 +7153,12 @@ Entries:
   id: 751
   time: '2025-08-01T22:58:13.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1217
+- author: ashkitten
+  changes:
+    - type: Fix
+      message: >-
+        Fixed an issue where the game would incorrectly state that someone
+        "Waves theirs item" at you.
+  id: 752
+  time: '2025-08-01T23:00:04.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1263
