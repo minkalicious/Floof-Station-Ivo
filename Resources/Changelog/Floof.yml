@@ -7115,3 +7115,10 @@ Entries:
   id: 747
   time: '2025-08-01T13:46:31.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1222
+- author: Raikyr0
+  changes:
+    - type: Add
+      message: Rodentia now have nightvision
+  id: 748
+  time: '2025-08-01T21:25:22.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1257
