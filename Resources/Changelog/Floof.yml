@@ -7060,3 +7060,10 @@ Entries:
   id: 744
   time: '2025-08-01T04:42:12.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1254
+- author: Memeji
+  changes:
+    - type: Add
+      message: Lobby art contest winners added
+  id: 745
+  time: '2025-08-01T12:37:21.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1264
