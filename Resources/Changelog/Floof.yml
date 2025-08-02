@@ -7169,3 +7169,10 @@ Entries:
   id: 753
   time: '2025-08-01T23:03:54.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1228
+- author: Memeji
+  changes:
+    - type: Tweak
+      message: Tweaked the NSFW Disclaimer.
+  id: 754
+  time: '2025-08-02T01:15:01.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1270
