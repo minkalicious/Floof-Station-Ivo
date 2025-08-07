@@ -7198,3 +7198,20 @@ Entries:
   id: 756
   time: '2025-08-07T10:30:47.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1281
+- author: JFerrix
+  changes:
+    - type: Fix
+      message: Fixed mass sleep, healing word, and revivify assay feedback.
+    - type: Fix
+      message: >-
+        Fixed all three language abilities (telepathy, xenoglossy and
+        psychognomy)
+    - type: Add
+      message: Wrote psychognomy and telepathy descriptions as they didnt exist.
+    - type: Tweak
+      message: >-
+        Changed pyrokinetic flare description from placeholder text to a real
+        description
+  id: 757
+  time: '2025-08-07T22:22:12.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1268
