@@ -7244,3 +7244,10 @@ Entries:
   id: 760
   time: '2025-08-08T16:51:06.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1274
+- author: Dunrab
+  changes:
+    - type: Add
+      message: Added multiple craftable wooden windows for houses and structures.
+  id: 761
+  time: '2025-08-08T17:18:29.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1287
