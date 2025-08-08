@@ -7251,3 +7251,14 @@ Entries:
   id: 761
   time: '2025-08-08T17:18:29.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1287
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: HOPEFULLY fixed the annoying bug that caused broken standing state.
+    - type: Fix
+      message: >-
+        Entities leaving your PVS should no longer have their sprite rotation
+        reset to "facing west".
+  id: 762
+  time: '2025-08-08T17:20:42.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1293
