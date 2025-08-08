@@ -7224,3 +7224,16 @@ Entries:
   id: 758
   time: '2025-08-08T16:38:24.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1286
+- author: ItsDzordz
+  changes:
+    - type: Add
+      message: Slime Bartender Plushie
+    - type: Add
+      message: Grumpy Quartermaster Plushie
+    - type: Add
+      message: Hardcore Dj Plushie
+    - type: Add
+      message: HOS Plushie
+  id: 759
+  time: '2025-08-08T16:45:58.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1296
