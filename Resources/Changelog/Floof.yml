@@ -7335,3 +7335,16 @@ Entries:
   id: 771
   time: '2025-08-09T17:06:26.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1279
+- author: Ko4erga
+  changes:
+    - type: Add
+      message: >-
+        Added a cutter machine for crafting patterned steel tiles, concrete and
+        wooden tiles.
+    - type: Tweak
+      message: >-
+        After ripping off patterned tiles, you get tiles with the respective
+        pattern, not just steel tiles.
+  id: 772
+  time: '2025-08-09T22:52:03.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1285
