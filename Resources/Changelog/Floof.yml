@@ -7303,3 +7303,10 @@ Entries:
   id: 767
   time: '2025-08-08T22:42:30.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1280
+- author: Raikyr0
+  changes:
+    - type: Fix
+      message: The fridge on the Pathfinder is now operable for non-chefs.
+  id: 768
+  time: '2025-08-08T22:44:29.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1255
