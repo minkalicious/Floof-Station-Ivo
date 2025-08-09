@@ -7319,3 +7319,12 @@ Entries:
   id: 769
   time: '2025-08-09T03:20:13.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1208
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: >-
+        人人生而平等, 正是我们的习惯让我们与众不同。(editor's note: this means all jobs will now
+        receive the same amount of TC when chosen to be traitors)
+  id: 770
+  time: '2025-08-09T03:56:03.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1301
