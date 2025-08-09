@@ -7271,3 +7271,12 @@ Entries:
   id: 763
   time: '2025-08-08T17:34:26.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1291
+- author: ashkitten
+  changes:
+    - type: Fix
+      message: Fixed sign language whispers.
+    - type: Fix
+      message: Fixed sign language being usable while asleep.
+  id: 764
+  time: '2025-08-08T21:36:57.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1298
