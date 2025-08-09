@@ -7296,3 +7296,10 @@ Entries:
   id: 766
   time: '2025-08-08T22:40:01.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1284
+- author: sprkl
+  changes:
+    - type: Fix
+      message: Tajaran can have their species name customized.
+  id: 767
+  time: '2025-08-08T22:42:30.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1280
