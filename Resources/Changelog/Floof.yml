@@ -7310,3 +7310,12 @@ Entries:
   id: 768
   time: '2025-08-08T22:44:29.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1255
+- author: ashkitten
+  changes:
+    - type: Tweak
+      message: >-
+        pAIs now use encryption keys, allowing them to talk on more than just
+        the binary channel
+  id: 769
+  time: '2025-08-09T03:20:13.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1208
