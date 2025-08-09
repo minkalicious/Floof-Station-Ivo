@@ -7289,3 +7289,10 @@ Entries:
   id: 765
   time: '2025-08-08T21:38:50.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1289
+- author: KyuPolaris
+  changes:
+    - type: Fix
+      message: Fixed some minor issues with the new pride drip
+  id: 766
+  time: '2025-08-08T22:40:01.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1284
