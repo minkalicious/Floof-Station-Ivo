@@ -7280,3 +7280,12 @@ Entries:
   id: 764
   time: '2025-08-08T21:36:57.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1298
+- author: KyuPolaris
+  changes:
+    - type: Add
+      message: >-
+        Added some rodent plushies, the Rat LO plushie and the Bunny CMO
+        plushie!
+  id: 765
+  time: '2025-08-08T21:38:50.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1289
