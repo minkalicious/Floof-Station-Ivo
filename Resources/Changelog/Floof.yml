@@ -7328,3 +7328,10 @@ Entries:
   id: 770
   time: '2025-08-09T03:56:03.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1301
+- author: ashkitten
+  changes:
+    - type: Tweak
+      message: You can now choose up to two additional languages in character creation.
+  id: 771
+  time: '2025-08-09T17:06:26.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1279
