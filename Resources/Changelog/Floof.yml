@@ -7392,3 +7392,12 @@ Entries:
   id: 776
   time: '2025-08-10T03:29:07.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1294
+- author: M3739
+  changes:
+    - type: Fix
+      message: >-
+        Slime people are once again, certified to pilot, and registered by door
+        sensors.
+  id: 777
+  time: '2025-08-10T04:44:51.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1307
