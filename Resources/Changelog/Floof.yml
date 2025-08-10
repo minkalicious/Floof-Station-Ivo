@@ -7355,3 +7355,12 @@ Entries:
   id: 774
   time: '2025-08-10T00:37:45.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1221
+- author: Stealthii
+  changes:
+    - type: Tweak
+      message: Loadout items have been added to Paradox clones of characters
+    - type: Fix
+      message: Paradox clones now match traits with their original characters
+  id: 775
+  time: '2025-08-10T02:08:08.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1303
