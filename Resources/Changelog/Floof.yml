@@ -7364,3 +7364,31 @@ Entries:
   id: 775
   time: '2025-08-10T02:08:08.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1303
+- author: Einstein Engines
+  changes:
+    - type: Add
+      message: >-
+        Handheld radios, including their security variant can now be tuned to
+        specific frequencies, and have their mic and speaker toggled separately.
+    - type: Tweak
+      message: >-
+        The Martial Artist trait has received a rework, and is now given for
+        free to gladiators and boxers.
+    - type: Tweak
+      message: >-
+        Eating a brain takes longer, along with a red popup to communicate
+        potential round removal.
+    - type: Tweak
+      message: The Chemmaster's UI has been revised, and now features a pill buffer.
+    - type: Add
+      message: >-
+        The fillbot has been added. Use a multi-tool or network analyzer to link
+        it to a lathe, silo, or dispos and watch it pick everything up off the
+        floor and into the linked object!
+    - type: Add
+      message: >-
+        The Dignitary department, along with the Magistrate has been added. The
+        BSO and NTR has been moved to this department.
+  id: 776
+  time: '2025-08-10T03:29:07.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1294
