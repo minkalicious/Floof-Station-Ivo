@@ -7262,15 +7262,6 @@ Entries:
   id: 762
   time: '2025-08-08T17:20:42.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1293
-#- author: Mnemotechnician | M3739 - Commented out as it was appended with ADMIN: We don't have an admin CL as of writing.
-#  changes:
-#    - type: Fix
-#      message: >-
-#        You can finally filter out subtle messages like all other kinds of
-#        messages.
-#  id: 763
-#  time: '2025-08-08T17:34:26.0000000+00:00'
-#  url: https://github.com/Floof-Station/Floof-Station/pull/1291
 - author: ashkitten
   changes:
     - type: Fix
@@ -7355,3 +7346,12 @@ Entries:
   id: 773
   time: '2025-08-09T23:11:10.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1300
+- author: ashkitten
+  changes:
+    - type: Add
+      message: People you're carrying will now show up in your examine popup.
+    - type: Add
+      message: Literal numbers in speech are now translated to words.
+  id: 774
+  time: '2025-08-10T00:37:45.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1221
