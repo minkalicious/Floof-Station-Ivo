@@ -7399,3 +7399,12 @@ Entries:
   id: 777
   time: '2025-08-10T04:44:51.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1307
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: >-
+        Subtles and subtle OOC messages should now correctly display over the
+        speaker's head.
+  id: 778
+  time: '2025-08-11T04:05:17.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1314
