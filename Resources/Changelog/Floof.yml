@@ -7436,3 +7436,10 @@ Entries:
   id: 782
   time: '2025-08-18T22:08:11.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1325
+- author: KyuPolaris
+  changes:
+    - type: Add
+      message: Added horny rodentia (Rodentia now can have horn markings)
+  id: 783
+  time: '2025-08-18T23:44:35.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1331
