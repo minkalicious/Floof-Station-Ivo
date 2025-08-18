@@ -7429,3 +7429,10 @@ Entries:
   id: 781
   time: '2025-08-18T04:12:16.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1326
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: Atmos Firesuit and the regular Firesuit has Pockets now
+  id: 782
+  time: '2025-08-18T22:08:11.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1325
