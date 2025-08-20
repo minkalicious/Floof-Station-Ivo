@@ -7448,3 +7448,12 @@ Entries:
   id: 784
   time: '2025-08-19T00:25:34.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1324
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: >-
+        Clothing received via loadouts will now correctly have the owner's
+        fingerprints.
+  id: 785
+  time: '2025-08-20T18:15:52.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1332
