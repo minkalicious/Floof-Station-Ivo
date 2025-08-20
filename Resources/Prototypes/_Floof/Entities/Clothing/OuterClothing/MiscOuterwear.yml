@@ -120,3 +120,14 @@
     sprite: _Floof/Clothing/OuterClothing/Misc/shackles.rsi
   - type: Clothing
     sprite: _Floof/Clothing/OuterClothing/Misc/shackles.rsi
+
+- type: entity
+  parent: ClothingOuterWinterCoat
+  id: ClothingOuterGothicCoat
+  name: gothic coat
+  description: This makes you look like a vampire, a vampire hunter, or an exhibitionist.
+  components:
+  - type: Sprite
+    sprite: _Floof/Clothing/OuterClothing/Misc/gothiccoat.rsi
+  - type: Clothing
+    sprite: _Floof/Clothing/OuterClothing/Misc/gothiccoat.rsi

@@ -108,3 +108,13 @@
   requirements:
     - !type:CharacterItemGroupRequirement
       group: LoadoutOuter
+
+- type: loadout
+  id: LoadoutClothingGothicCoat
+  category: Outer
+  cost: 1
+  items:
+    -  ClothingOuterGothicCoat
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: LoadoutOuter

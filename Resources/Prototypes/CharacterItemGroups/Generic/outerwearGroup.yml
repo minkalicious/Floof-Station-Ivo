@@ -120,4 +120,6 @@
     id: LoadoutClothingOuterShackles
   - type: loadout
     id: LoadoutClothingOuterSuitWitchRobes
+  - type: loadout
+    id: LoadoutClothingGothicCoat
   # end Floof
