@@ -263,3 +263,14 @@
     sprite: _Floof/Clothing/Uniforms/bluefancylad.rsi
   - type: Clothing
     sprite: _Floof/Clothing/Uniforms/bluefancylad.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformGabberTracksuit
+  name: gabber tracksuit
+  description: ALWAYS HARDCORE >=) You hakk in this.
+  components:
+  - type: Sprite
+    sprite: _Floof/Clothing/Uniforms/gabbertracksuit.rsi
+  - type: Clothing
+    sprite: _Floof/Clothing/Uniforms/gabbertracksuit.rsi
