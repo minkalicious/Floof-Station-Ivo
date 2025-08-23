@@ -346,3 +346,19 @@
          - Security
          - Command
 
+- type: loadout # gabber
+  id: LoadoutUniformGabberTracksuit
+  category: Uniform
+  cost: 1
+  exclusive: true
+  items:
+    - ClothingUniformGabberTracksuit
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: LoadoutUniformsCivilian
+    - !type:CharacterDepartmentRequirement
+       inverted: true
+       departments:
+         - Security
+         - Command
+
