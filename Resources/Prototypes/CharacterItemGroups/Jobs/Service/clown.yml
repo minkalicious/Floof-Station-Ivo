@@ -58,6 +58,8 @@
   items:
     - type: loadout
       id: LoadoutServiceClownMaskSexy
+    - type: loadout
+      id: LoadoutClothingMaskHiphopClown
 
 - type: characterItemGroup
   id: LoadoutClownOuter
