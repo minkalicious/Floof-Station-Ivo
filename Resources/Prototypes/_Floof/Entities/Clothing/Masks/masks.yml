@@ -27,9 +27,9 @@
   description: are you down with the clown?
   components:
   - type: Sprite
-    sprite: Clothing/Mask/hiphopclown.rsi
+    sprite: _Floof/Clothing/Mask/hiphopclown.rsi
   - type: Clothing
-    sprite: Clothing/Mask/hiphopclown.rsi
+    sprite: _Floof/Clothing/Mask/hiphopclown.rsi
   - type: Construction
     graph: HiphopClownMask
     node: mask
