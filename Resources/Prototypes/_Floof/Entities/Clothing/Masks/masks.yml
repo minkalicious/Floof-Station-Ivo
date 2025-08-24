@@ -19,3 +19,17 @@
 # I'm actually not super satisfied with this implementation. I kinda wish all gas masks simply had a slot you could
 # attach a muzzle to and it would muffle your speech. Especially because working with tags in recipes is clunky as hell
 # and encourages some bad code practice. But I'm lazy. WYCI
+
+- type: entity
+  parent: ClothingMaskClown
+  id: ClothingMaskHiphopClown
+  name: hiphop clown mask
+  description: are you down with the clown?
+  components:
+  - type: Sprite
+    sprite: Clothing/Mask/hiphopclown.rsi
+  - type: Clothing
+    sprite: Clothing/Mask/hiphopclown.rsi
+  - type: Construction
+    graph: HiphopClownMask
+    node: mask

@@ -282,20 +282,6 @@
     node: mask
 
 - type: entity
-  parent: ClothingMaskClown
-  id: ClothingMaskHiphopClown
-  name: hiphop clown mask
-  description: are you down with the clown?
-  components:
-  - type: Sprite
-    sprite: Clothing/Mask/hiphopclown.rsi
-  - type: Clothing
-    sprite: Clothing/Mask/hiphopclown.rsi
-  - type: Construction
-    graph: HiphopClownMask
-    node: mask
-
-- type: entity
   parent: ClothingMaskBase
   id: ClothingMaskJoy
   name: joy mask

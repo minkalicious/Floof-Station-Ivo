@@ -38,3 +38,19 @@
   - !type:CharacterJobRequirement
     jobs:
     - Mime
+
+- type: loadout
+  id: LoadoutHiphopClownMask
+  category: JobsServiceMime
+  cost: 0
+  exclusive: true
+  customColorTint: true
+  canBeHeirloom: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: LoadoutMimeMask
+    - !type:CharacterJobRequirement
+      jobs:
+        - Mime
+  items:
+    - ClothingMaskHiphopClown
